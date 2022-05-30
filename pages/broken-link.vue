@@ -12,11 +12,11 @@
         </div>
         <div class="py-16">
           <div class="text-center">
-            <p class="text-sm font-semibold text-primary uppercase tracking-wide">Service Online</p>
-            <h1 class="mt-2 text-4xl font-extrabold text-gray-900 tracking-tight sm:text-5xl">RAkerman Linker</h1>
-            <p class="mt-2 text-base text-gray-500">Howdy! Welcome to our super exciting landing page.</p>
+            <p class="text-sm font-semibold text-primary uppercase tracking-wide">Broken Link</p>
+            <h1 class="mt-2 text-4xl font-extrabold text-gray-900 tracking-tight sm:text-5xl">Link not found.</h1>
+            <p class="mt-2 text-base text-gray-500">Sorry, we couldn't find a link matching your request.</p>
             <div class="mt-6">
-              <a href="https://github.com/rak3rman/rakerman-linker" class="text-base font-medium text-primary">Github repository<span aria-hidden="true"> &rarr;</span></a>
+              <a href="/" class="text-base font-medium text-primary">Back home<span aria-hidden="true"> &rarr;</span></a>
             </div>
           </div>
         </div>
